@@ -1,8 +1,8 @@
-# Numpy-NumC
+# Numpy with C
 
 ## Overview
 
-NumC is Python's Numpy module, implemented in C with a Python interface. NumC takes advantage of all of C's inherent methods for speedup, including but not limited to Thread Level Parallelism, and SIMD-X86 intrinsic instructions.
+NumC is Python's Numpy module implemented in C with a Python interface. NumC takes advantage of all of C's inherent methods for speedup, including but not limited to Thread Level Parallelism, and SIMD-X86 intrinsic instructions.
 
 ## Installation
 
@@ -45,4 +45,8 @@ NumC Module Imported
 
 ## Credit
 
-Created during CS61C Fall 2020 at UC Berkeley, by Gurkaran S Goindi and Rohit Deshpande
+Created during a class at UC Berkeley, by Gurkaran S Goindi and Rohit Deshpande
+
+#### Disclaimer
+
+No part of the code of this project can be used in a submission in any academic institution, in any part of the US, and especially not at UC Berkeley. This code is on Github as a showcase of my programming experience and not to enable misconduct and dishonesty. Any attempts to copy the code in this repository will result in several academic penalties.
