@@ -29,7 +29,7 @@ $ make
 
 ## Usage
 
-WHile all regular Numpy functionalty that uses [] should be available, here are a few ways that you can use to initialize a new NumC matrix:
+While all regular Numpy functionalty that uses [] should be available, here are a few ways that you can use to initialize a new NumC matrix:
 ```
 >>> import numc as nc
 NumC Module Imported
