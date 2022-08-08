@@ -49,4 +49,4 @@ Created during a class at UC Berkeley, by Gurkaran S Goindi and Rohit Deshpande
 
 #### Disclaimer
 
-No part of the code of this project can be used in a submission in any academic institution, in any part of the US, and especially not at UC Berkeley. This code is on Github as a showcase of my programming experience and not to enable misconduct and dishonesty. Any attempts to copy the code in this repository will result in several academic penalties.
+No part of the code of this project can be used in a submission in any academic institution, in any part of the US, and especially not at UC Berkeley. This code is on Github as a showcase of my programming experience and not to enable misconduct and dishonesty. Any attempts to copy the code in this repository will result in severe academic penalties.
